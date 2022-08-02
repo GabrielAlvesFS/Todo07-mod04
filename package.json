@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "node-readline",
+  "version": "1.0.0",
+  "description": "Exercício do módulo 04 com NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAlvesFS/Todo07-mod04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAlvesFS/Todo07-mod04/issues"
+  },
+  "homepage": "https://github.com/GabrielAlvesFS/Todo07-mod04#readme"
+}
